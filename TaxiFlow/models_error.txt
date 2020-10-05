@@ -1,0 +1,33 @@
+# -*- coding: utf-8 -*-
+"""
+-------------------------------------------------
+   File Name：     models_error
+   Description :
+   Author :       Giyn
+   date：          2020/8/13 16:26:34
+-------------------------------------------------
+   Change Activity:
+                   2020/8/14 14:02:46
+-------------------------------------------------
+"""
+__author__ = 'Giyn'
+
+RMSE of RandomForestRegressor: 31.98402578065729
+MSE of RandomForestRegressor: 1022.9779051377502
+MAE of RandomForestRegressor: 8.382097392857142
+R_Square of RandomForestRegressor: 0.9982274974978567
+
+RMSE of GBDT: 584.4109912019309
+MSE of GBDT: 341536.20663762325
+MAE of GBDT: 422.09110569768507
+R_Square of GBDT: 0.40822399213382876
+
+RMSE of XGBoost: 100.22652961914312
+MSE of XGBoost: 10045.357239496972
+MAE of XGBoost: 66.92942118100716
+R_Square of XGBoost: 0.9825945206123157
+
+RMSE of LightGBM: 260.2660385249107
+MSE of LightGBM: 67738.41080945029
+MAE of LightGBM: 191.63946862471116
+R_Square of LightGBM: 0.8826304047741936

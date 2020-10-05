@@ -1,0 +1,8 @@
+sklearn
+pandas
+pymysql
+matplotlib
+numpy
+pygeohash
+xgboost
+lightgbm

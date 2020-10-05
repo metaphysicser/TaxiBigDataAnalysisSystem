@@ -1,0 +1,1 @@
+{'baiyun': 43142, 'conghua': 0, 'haizhu': 71480, 'huadu': 3128, 'huangpu': 1130, 'liwan': 37322, 'nansha': 3, 'panyu': 6855, 'tianhe': 161636, 'yuexiu': 187135, 'zengcheng': 3}

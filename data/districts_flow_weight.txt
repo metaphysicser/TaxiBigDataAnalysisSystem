@@ -1,0 +1,1 @@
+{'baiyun': 0.1194, 'conghua': 0.0, 'haizhu': 0.2148, 'huadu': 0.0104, 'huangpu': 0.0088, 'liwan': 0.1272, 'nansha': 0.0, 'panyu': 0.0272, 'tianhe': 0.195, 'yuexiu': 0.2898, 'zengcheng': 0.0}
